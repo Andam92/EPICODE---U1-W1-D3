@@ -2,11 +2,6 @@
   text-align: center;
 }
 
-hr {
-  height: 0.5px;
-  background-color: rgb(39, 192, 192);
-}
-
 .intro {
   text-align: center;
   margin-top: 100px;
@@ -14,7 +9,14 @@ hr {
   margin-right: 35%;
 }
 
-.subtitle {
+.subtitle_1 {
+  background-color: rgba(231, 227, 169, 0.281);
+  padding: 10px;
+  font-size: small;
+  border-top: 3px solid rgba(243, 123, 53, 0.575);
+}
+
+.subtitle_2 {
   text-align: left;
 }
 
@@ -30,10 +32,16 @@ figcaption {
 
 .aside {
   text-align: left;
+  border-left: 3px solid rgba(243, 123, 53, 0.575);
+  padding-left: 30px;
 }
 
 a {
   color: rgb(39, 192, 192);
+}
+
+.aside a {
+  margin-top: 10px;
 }
 
 .main {
@@ -57,4 +65,9 @@ li {
 footer {
   margin-left: 35%;
   margin-right: 35%;
+}
+
+.hr {
+  height: 0.5px;
+  background-color: rgb(39, 192, 192);
 }

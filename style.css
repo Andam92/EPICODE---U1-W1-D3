@@ -1,0 +1,60 @@
+.header {
+  text-align: center;
+}
+
+hr {
+  height: 0.5px;
+  background-color: rgb(39, 192, 192);
+}
+
+.intro {
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+.subtitle {
+  text-align: left;
+}
+
+img {
+  border-radius: 10px;
+}
+
+figcaption {
+  opacity: 60%;
+  margin-top: 15px;
+  font-size: smaller;
+}
+
+.aside {
+  text-align: left;
+}
+
+a {
+  color: rgb(39, 192, 192);
+}
+
+.main {
+  margin-top: 100px;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+.section {
+  margin-top: 50px;
+}
+
+ul {
+  margin-top: px;
+}
+
+li {
+  margin-top: 20px;
+}
+
+footer {
+  margin-left: 35%;
+  margin-right: 35%;
+}
